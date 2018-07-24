@@ -1,3 +1,3 @@
-print("Git practice! and Test branch")
+print("Git practice! and pycharm branch")
 
-print("test branch")
+print("pycharm branch")
